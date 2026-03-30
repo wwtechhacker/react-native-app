@@ -40,11 +40,11 @@
         }
       ],
       "expo-font",
-      {
-        "fonts": [
-          "./assets/fonts/VIVALDII.TTF",
-        ]
-      }
+      // {
+      //   "fonts": [
+      //     "./assets/fonts/VIVALDII.TTF",
+      //   ]
+      // }
     ],
     "experiments": {
       "typedRoutes": true,
